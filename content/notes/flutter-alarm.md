@@ -5,5 +5,5 @@ tags: ['project']
 link: https://www.github.com/shubxam/
 ---
 
->A smart alarm clock application built using flutter, which uses facial recognition and ML to turn it off.
+>A smart alarm clock application built using flutter, which uses facial recognition and ML to turn it off. :github:
 ---
