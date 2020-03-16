@@ -6,7 +6,8 @@ link: http://example.com
 slug: invisible-ghost-post
 description: 'this post has all of the right fields'
 tags: ['notags']
-
+hide: true
+draft: true
 ---
 
 This exists to populate GraphQL fields and avoid null errors. It should contain all of the available frontmatter.
