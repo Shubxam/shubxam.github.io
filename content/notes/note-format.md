@@ -1,10 +1,9 @@
 ---
-date: 2019-06-02
-tags: ['note', 'project']
-hide: true
-
+title: Smart Alarm Clock - Made using Flutter
+date: 2020-03-16
+tags: ['project']
+link: https://www.github.com/shubxam
 ---
 
-**Note card** - the type of content that is fully displayed in the feed of the site - it is suitable for short notes (like this one), videos, podcasts, slides, etc.
-
-Since this is markdown - here you can do _everything_ that allows you to do this format.
+A smart alarm clock application built using flutter, which uses facial recognition and ML to turn it off.
+---

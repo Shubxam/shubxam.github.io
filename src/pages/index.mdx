@@ -6,30 +6,15 @@
   </Link>
 </h3>
 
-<FeedItems 
-  itemsFormat="compact" 
-  filterByTags={['post', 'article']} 
-  limit={4} 
-/>
-
-<p>&nbsp;</p>
-<h3>Podcasts&nbsp;&nbsp;
-  <Link to='tags/podcast'>
-    <Button style={{marginTop: '8px'}}>all podcasts</Button>
-  </Link>
-</h3>
-
-<FeedItems itemsFormat="compact" filterByTags={['podcast']} limit={3} />
-
-<p>&nbsp;</p>
-
-### Certificates
-
-<FeedItems itemsFormat="compact" filterByTags={['certificate']} />
-
+<FeedItems itemsFormat="compact" filterByTags={['post', 'article']} limit={4} />
 <p>&nbsp;</p>
 
 ### Projects
 
 <FeedItems itemsFormat="compact" filterByTags={['project']} />
+<p>&nbsp;</p>
+
+### Certificates
+
+<FeedItems itemsFormat="compact" filterByTags={['certificate']} />
 <p>&nbsp;</p>
