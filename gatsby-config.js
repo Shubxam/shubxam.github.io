@@ -23,7 +23,7 @@ module.exports = {
       },
       {
         icon: `linkedin`,
-        url: `https://www.npmjs.com/package/gatsby-theme-chronoblog`
+        url: `https://www.linkedin.com/in/shubxam/`
       }
     ]
   },
