@@ -1,0 +1,24 @@
+project:
+  type: website
+
+website:
+  title: "Shubham Soni"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - posts.qmd
+      - projects.qmd
+    tools:
+      - icon: github
+        href: https://github.com/shubxam
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
