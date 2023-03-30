@@ -1,12 +1,12 @@
 [
   {
-    "listing": "/projects.html",
-    "items": []
-  },
-  {
     "listing": "/posts.html",
     "items": [
       "/writings/2023-03-29-CAPM/index.html"
     ]
+  },
+  {
+    "listing": "/projects.html",
+    "items": []
   }
 ]

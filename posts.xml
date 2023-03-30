@@ -5,12 +5,12 @@
       xmlns:dc="http://purl.org/dc/elements/1.1/" 
       version="2.0">
 <channel>
-<title>Shubham Soni&#39;s blog</title>
+<title>Shubham&#39;s blog</title>
 <link>https://shubxam.codes/posts.html</link>
 <atom:link href="https://shubxam.codes/posts.xml" rel="self" type="application/rss+xml"/>
 <description>personal musings of shubham soni</description>
 <generator>quarto-1.2.475</generator>
-<lastBuildDate>Tue, 28 Mar 2023 18:30:00 GMT</lastBuildDate>
+<lastBuildDate>Wed, 29 Mar 2023 00:00:00 GMT</lastBuildDate>
 <item>
   <title>Introduction to CAPM using Python</title>
   <dc:creator>Shubham Soni</dc:creator>
@@ -291,7 +291,7 @@
   <category>Finance</category>
   <category>Python</category>
   <guid>https://shubxam.codes/writings/2023-03-29-CAPM/index.html</guid>
-  <pubDate>Tue, 28 Mar 2023 18:30:00 GMT</pubDate>
+  <pubDate>Wed, 29 Mar 2023 00:00:00 GMT</pubDate>
   <media:content url="https://shubxam.codes/writings/2023-03-29-CAPM/assets/preview_image.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
