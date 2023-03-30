@@ -31,5 +31,8 @@
   },
   "projects.qmd": {
     "projects.html": "b0f3684a"
+  },
+  "writings/2023-03-29-CAPM/index.qmd": {
+    "index.html": "e272c3e4"
   }
 }

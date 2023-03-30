@@ -1,7 +1,51 @@
 ---
-title: "mysite"
+title: "Shubham Soni"
+about:
+  id: personal
+  template: solana
+  image: profile.jpg
+  image-shape: rounded
+  image-width: 12em
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/shubxam
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/shubxam
 ---
 
-This is a Quarto website.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Shubham Soni is a Post Graduate in Statistics with a background in Computer Science. He has a deep interest in Quantitative Finance and all fields associated. He loves building new things with Python and his favourite band is Coldplay.
+
+
+
+
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=shubxam&hide=contribs&hide_rank=true&disable_animations=true&show_icons=true&theme=vision-friendly-dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=shubxam&hide=contribs&hide_rank=true&disable_animations=true&show_icons=true&theme=graywhite"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=shubxam&hide=contribs&hide_rank=true&disable_animations=true&show_icons=true" />
+</picture>
+
+
+## Education
+- University of Hyderabad
+  MSc Statistics (2023)
+
+- University of Mumbai (Mithibai College)
+  BSc Computer Science (2020)
+
+## Experience
+
+- Xumit Capital | Financial Analyst Intern | Dec 2022 - Feb 2023
+
+
+## Projects
+
+<a href='https://github.com/Shubxam/Nifty-500-Live-Sentiment-Analysis'><img src='https://github-readme-stats.vercel.app/api/pin?username=shubxam&repo=Nifty-500-Live-Sentiment-Analysis&theme=transparent'></a>

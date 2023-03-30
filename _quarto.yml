@@ -2,23 +2,31 @@ project:
   type: website
 
 website:
-  title: "Shubham Soni"
+  title: "Shubham's blog"
+  description: personal musings of shubham soni
+  repo-url: https://github.com/
+  site-url: https://shubxam.codes
+  repo-subdir: shubxam/shubxam.github.io
+  repo-actions: source
+  google-analytics:
+    tracking-id: G-51BMHSVQD5
+    storage: none
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
       - posts.qmd
       - projects.qmd
-    tools:
-      - icon: github
-        href: https://github.com/shubxam
+    right: 
+      - icon: rss
+        href: posts.xml
 
 format:
   html:
-    theme: cosmo
+    theme:
+      dark: cyborg
+      light: lux
     css: styles.css
     toc: true
+    monofont: JetBrains Mono
 
 
 
