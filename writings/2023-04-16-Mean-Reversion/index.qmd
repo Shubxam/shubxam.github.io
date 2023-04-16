@@ -1,0 +1,14 @@
+---
+title: "Mean Reversion Theory using Python"
+description: "What is Mean Reversion Strategy and How do we implement it using Python."
+author:
+  - name: Shubham Soni
+    url: https://shubxam.github.io/
+date: 04-16-2023
+categories: [Finance, Python]
+image: ./assets/preview_image.jpg
+date-modified: 03-29-2023
+---
+
+
+# Mean Reversion Strategy in Python
